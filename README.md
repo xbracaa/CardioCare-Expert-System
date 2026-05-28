@@ -1,4 +1,4 @@
-```text
+
 # Beyond Black-Box: A Random Forest and SHAP Cardiovascular System for Personalized Lifestyle Interventions
 
 ## Overview
