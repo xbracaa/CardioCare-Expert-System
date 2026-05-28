@@ -1,17 +1,3 @@
-Waduh, oke oke maaf banget bikin kamu emosi! Kadang sistem *copy-paste* dari obrolan ini ke GitHub memang suka ngaco karena yang tersalin malah teks biasanya, bukan "kode mentah"-nya.
-
-Selain itu, GitHub Markdown itu **sangat sensitif dengan spasi dan tombol *Enter***. Kalau sebelum *bullet point* (titik-titik) atau paragraf baru tidak ada jarak satu baris kosong, dia akan menabrak semua teksnya jadi satu paragraf yang panjang dan berantakan.
-
-Sekarang kita pakai cara manual yang **dijamin 100% rapi**. Aku sudah menambahkan "jarak kosong" ganda di setiap antar-paragraf dan *bullet point* agar GitHub tidak bingung.
-
-**LAKUKAN INI:**
-
-1. Jangan pakai tombol "Copy" yang ada di pojok kotak.
-2. **Blok manual (sorot/highlight)** teks di dalam kotak hitam di bawah ini, mulai dari tanda `# Beyond...` paling atas, sampai kata `...engineering.` paling bawah.
-3. *Copy* (Ctrl+C) lalu *Paste* (Ctrl+V) ke GitHub-mu.
-
-Silakan blok dan *copy* ini:
-
 ```text
 # Beyond Black-Box: A Random Forest and SHAP Cardiovascular System for Personalized Lifestyle Interventions
 
@@ -93,8 +79,4 @@ The original computational baseline dataset is publicly accessible via Kaggle (S
 
 All computational artifacts developed in this repository are published openly, complying with the principles of experimental reproducibility and scientific transparency in intelligent software engineering.
 
-```
 
-Langsung di-*paste* ya, dan pastikan di bagian tab GitHub-mu kamu mengeklik tombol **Preview** untuk melihat hasilnya sebelum di-Simpan (*Commit*). Coba lihat, sudah rapi dan membentuk poin-poin kan sekarang?
-
-```
